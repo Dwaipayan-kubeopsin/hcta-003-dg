@@ -1,2 +1,2 @@
-# hcta-003-dg
-Hashicorp Certified Terraform Associate Learning Path
+# Hashicorp Certified Terraform Associate Learning Path
+## Owner: Dwaipayan Ganguly
